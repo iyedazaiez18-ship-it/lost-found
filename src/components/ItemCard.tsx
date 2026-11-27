@@ -1,5 +1,3 @@
-<ItemCard title="Blue water bottle" place="Library, 2nd floor" />
-<ItemCard title="Student card" place="Cafeteria" />
 import { StyleSheet, Text, View } from 'react-native';
 type Props = {
 title: string;
